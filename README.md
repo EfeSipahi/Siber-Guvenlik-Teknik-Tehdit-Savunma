@@ -35,7 +35,7 @@ Sunum, siber güvenliğin temel kavramlarından başlayarak, güncel tehditler v
 
 ## 📫 İletişim
 
-Sunum hakkında geri bildirimde bulunmak veya sorularınızı iletmek isterseniz, GitHub üzerinden bana ulaşabilirsiniz.
+Sunum hakkında geri bildirimde bulunmak veya sorularınızı iletmek isterseniz, efesipahioglu6@gmail.com maili üzerinden bana ulaşabilirsiniz.
 
 ---
 
